@@ -1,4 +1,4 @@
-During the work of my Master's Thesis I have had to become familiar with data analysis tools like Python or Excel VBA. 
-These codes, made with the help of the online community and ChatGPT as a tool to check for errors, have been made by me to run the analysis of the data needed to obtain results for the thesis
-I am offering these codes to the scientific community with the intention of aiding those to whom they may be useful. There is no need for citation or mention anywhere
+During the work of my Master's Thesis, I have had to become familiar with data analysis tools like Python or Excel VBA. In a nutshell, some of the work has been focused on the analysis of the bonds file output by LAMMPS when the fix command is activated. These codes are useful for turning the bond files into Excel spreadsheets and for eliminating duplicated lines in order to decrease the size of the files containing the results
+These codes, made with the help of the online community and ChatGPT as a tool to check for errors, have been created by me to run the analysis of the data needed to obtain results for the thesis
+I am offering these codes to the scientific community, intending to aid those to whom they may be useful. There is no need for citation or mention anywhere
 I hope they can be useful in your pursuit of knowledge. Per Aspera ad Astra. Take care
